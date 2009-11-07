@@ -1,0 +1,14 @@
+DBI-Custom-Query
+
+Query object for DBI::Custom
+
+INSTLLATION
+
+cpan DBI::Custom::Query
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 Yuki Kimoto
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
